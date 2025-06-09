@@ -1,0 +1,74 @@
+Referências
+
+ADINEGORO, F. et al. Latency and ram usage comparison of advanced and lightweight service mesh. In: IEEE.
+2022 5th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI). [S.l.],
+2022. p. 369–372.
+
+ALBOQMI, R.; JAHAN, S.; GAMBLE, R. Threat intelligence sharing component in the service mesh architecture.
+In: IEEE. 2023 10th International Conference on Future Internet of Things and Cloud (FiCloud). [S.l.], 2023. p.
+320–327.
+
+ALBOQMI, R.; JAHAN, S.; GAMBLE, R. F. A runtime trust evaluation mechanism in the service mesh
+architecture. In: IEEE. 2023 10th International Conference on Future Internet of Things and Cloud (FiCloud).
+[S.l.], 2023. p. 242–249.
+
+BITTAR, A. et al. Service function chaining design & implementation using network service mesh in kubernetes.
+In: SCFA 2022. [S.l.]: Springer, 2022. p. 121–140.
+
+CHA, D.; KIM, Y. Service mesh based distributed tracing system. In: IEEE. 2021 International Conference on
+Information and Communication Technology Convergence (ICTC). [S.l.], 2021. p. 1464–1466.
+
+ELKHATIB, Y.; POYATO, J. P. An evaluation of service mesh frameworks for edge systems. In: 6th International
+Workshop on Edge Systems, Analytics and Networking (EdgeSys ’23). [S.l.]: ACM, 2023. p. 19–24.
+
+HUSSAIN, F. et al. Intelligent service mesh framework for api security and management. In: IEEE. IEEE 10th
+Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON). [S.l.], 2019. p.
+735–742.
+
+KARN, R. R. et al. Automated testing and resilience of microservice’s network-link using istio service mesh. In:
+PROCEEDING OF THE 31ST CONFERENCE OF FRUCT ASSOCIATION. [S.l.: s.n.], 2022. p. 80–88.
+KURPAD, S. et al. Microarchitectural analysis and characterization of performance overheads in service meshes
+with kubernetes. In: IEEE. 2023 3rd Asian Conference on Innovation in Technology (ASIANCON). [S.l.], 2023.
+p. 1–6.
+
+LARSSON, L. et al. Adaptive and application-agnostic caching in service meshes for resilient cloud applications.
+In: IEEE. 2021 IEEE 7th International Conference on Network Softwarization (NetSoft). [S.l.], 2021. p. 176–180.
+NATHANIEL, L. et al. Istio api gateway impact to reduce microservice latency and resource usage on
+kubernetes. In: IEEE. 2023 International Seminar on Intelligent Technology and Its Applications (ISITIA). [S.l.],
+2023. p. 43–49.
+
+NICOLAS-PLATA, A.; GONZALEZ-COMPEAN, J. L.; SOSA-SOSA, V. J. A service mesh approach to integrate
+processing patterns into microservices applications. Cluster Computing, Springer, v. 27, n. 6, p. 7417–7438,
+2024.
+
+QI, B.; YU, Y.; LI, X. The utilisation and implementation of the istio framework in the architectonic progression
+of online learning platform. In: IEEE. 2024 13th International Conference of Information and Communication
+Technology (ICTech). [S.l.], 2024. p. 182–186.
+
+SEDGHPOUR, M. R. S.; KLEIN, C.; TORDSSON, J. An empirical study of service mesh traffic management
+policies for microservices. In: Proceedings of the 2022 ACM/SPEC International Conference on Performance
+Engineering (ICPE ’22). [S.l.]: ACM, 2022. p. 17–27.
+
+SINGH, S.; MUNTEAN, C. H.; GUPTA, S. Boosting microservice resilience. In: IEEE. 2024 9th International
+Conference on Fog and Mobile Edge Computing (FMEC). [S.l.], 2024. p. 245–251.
+
+SONG, M.; LIU, Q.; E, H. A mirco-service tracing system based on istio and kubernetes. In: IEEE. 2019
+IEEE 10th International Conference on Software Engineering and Service Science (ICSESS). [S.l.], 2019. p.
+613–616.
+
+WANG, L. et al. Dependency-aware traffic management for configuring on-demand in service meshes. In:
+IEEE. 2022 IEEE 28th International Conference on Parallel and Distributed Systems (ICPADS). [S.l.], 2022. p.
+450–457.
+
+WANG, Y.-T. et al. Analyzing and monitoring kubernetes microservices based on distributed tracing and service
+mesh. In: IEEE. 2022 29th Asia-Pacific Software Engineering Conference (APSEC). [S.l.], 2022. p. 477–481.
+WANG, Z. et al. A web-based orchestrator for dynamic service function chaining development with kubernetes.
+In: IEEE. 2022 IEEE 8th International Conference on Network Softwarization (NetSoft). [S.l.], 2022. p. 234–236.
+XU, Q.; GAO, Y.; WEI, J. An empirical study on kubernetes operator bugs. In: Proceedings of the 33rd ACM
+SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’24). [S.l.]: ACM, 2024. p.
+1746–1758.
+
+ZHOU, J. et al. Balancing load: An adaptive traffic management scheme for microservices. In: IEEE. 2022 IEEE
+28th International Conference on Parallel and Distributed Systems (ICPADS). [S.l.], 2022. p. 641–648.
+ZHU, X. et al. Dissecting overheads of service mesh sidecars. In: ACM Symposium on Cloud Computing (SoCC
+’23). [S.l.]: ACM, 2023. p. 142–157.
